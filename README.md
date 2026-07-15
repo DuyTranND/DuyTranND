@@ -1,63 +1,22 @@
 <div align="center">
-  <h1>Nguyen Dang Nha</h1>
-  <p>AI Researcher • Robot Learning • Reinforcement Learning</p>
-</div>
-
-<div align="center">
-  <img src="./assets/sea.gif" alt="Sea" width="720" />
-</div>
-
----
-
-## About Me
-
-I am interested in building intelligent systems that can learn, adapt, and interact with the real world.
-
-Currently, my work focuses on:
-- robot learning
-- reinforcement learning
-- humanoid robotics
-- computer vision
-
-I am also interested in the connection between research ideas and practical systems.
-
----
-
-## Research Interests
-
-- Robot Learning
-- Reinforcement Learning
-- Humanoid Robotics
-- Computer Vision
-- Embodied AI
-
----
-
-## Technologies
-
-- Python, C/C++
-- PyTorch
-- ROS
-- OpenCV
-- Isaac Sim / Isaac Lab
-- NumPy
-- Git
-- Linux
-
----
-
-## GitHub Stats
-
-<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dangnha&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-    alt="GitHub stats"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=720&lines=Duy+Tran"
+    alt="Duy Tran"
   />
 </div>
 
----
+<div align="center">
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
+    alt="Animation"
+    width="420"
+  />
+</div>
 
 <div align="center">
-  <img src="./assets/sea-footer.jpg" alt="Sea footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </div>
