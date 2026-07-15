@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BFE9FF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Duy+Tran+%E2%9D%84%EF%B8%8F;AI+Researcher+%26+Mechatronics+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BFE9FF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Duy+Tran+%F0%9F%A7%8A;AI+Researcher+%26+Mechatronics+Engineer"
     alt="Duy Tran"
   />
 </div>
@@ -9,9 +9,9 @@
 
 <div align="center">
   <img
-    src="./assets/snow-mountain.gif"
-    alt="Snow mountain animation"
-    width="700"
+    src="./assets/ice-cube.png"
+    alt="Ice cube"
+    width="450"
   />
 </div>
 
