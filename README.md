@@ -15,8 +15,6 @@
   />
 </div>
 
----
-
 ## ❄️ About Me
 
 I am an AI researcher working at the intersection of **robot learning, reinforcement learning, and computer vision**.
