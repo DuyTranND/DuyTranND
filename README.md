@@ -12,3 +12,23 @@
     width="700"
   />
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I am an AI researcher working at the intersection of **robot learning, reinforcement learning, and computer vision**.
+
+- 🔬 Experienced in **computer vision, vision-language models, and AI model evaluation**
+- 👨‍🏫 Teaching Assistant for machine learning, deep learning, computer vision, NLP, and reinforcement learning
+- 🌱 Currently exploring **humanoid robotics, Deep RL, and embodied AI**
+
+---
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061A12,50:0B3D2E,100:145A32&height=120&section=footer"
+    width="100%"
+    alt="Dark forest footer"
+  />
+</div>
