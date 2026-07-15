@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="./assets/ice-cube.png"
+    src="./Ice Cube.png"
     alt="Ice cube"
     width="450"
   />
