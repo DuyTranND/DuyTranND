@@ -7,16 +7,8 @@
 
 <div align="center">
   <img
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
-    alt="Animation"
-    width="420"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"
-    width="100%"
-    alt="Footer"
+    src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
+    alt="Coast animation"
+    width="700"
   />
 </div>
