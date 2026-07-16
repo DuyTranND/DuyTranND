@@ -6,8 +6,6 @@
   />
 </div>
 
----
-
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BFE9FF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Duy+Tran+(Ice)+%F0%9F%A7%8A;AI+Researcher+%26+Mechatronics+Engineer"
